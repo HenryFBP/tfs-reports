@@ -1,5 +1,3 @@
-$Word=New-Object -ComObject Word.Application
-
 # TODO This path is hard-coded.
 $Files=Get-ChildItem("..\*.md")
 
