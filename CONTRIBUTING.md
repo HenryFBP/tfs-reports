@@ -1,9 +1,3 @@
-<p style="display:none">
-\newpage
-</p>
-
-<!-- TODO: FIXME / HACK: Makes TOC begin on own page. -->
-
 # Preamble
 
 These instructions apply to all of our repositories. Just replace the URLs.
