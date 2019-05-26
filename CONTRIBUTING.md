@@ -128,7 +128,7 @@ We have chosen trunk-based development for simplicity and to avoid 'merge hell'.
 
 Run `git clone https://github.com/twitter-fire-scraper-analytics/twitter-fire-scraper`.
 
-A folder with the same name as the repository will be created wherever your current working directory (`pwd`) is located.
+A folder with the same name as the repository will be created wherever your current working directory (`pwd` or `dir`) is.
 
 # Your workflow
 
